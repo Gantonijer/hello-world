@@ -1,2 +1,2 @@
 # hello-world
-Prvi
+Propali pokusaji
